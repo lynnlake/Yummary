@@ -1,0 +1,4 @@
+openai_endpoint = "https://ai-for-me.openai.azure.com"
+openai_key = "your key here"
+api_version = "2024-02-15-preview"
+model = "gpt-35-turbo"
